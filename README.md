@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with the Product search app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1) This app helps search holiday from adttravels api
+2) This app can search based on geo location and title parameter which returns 10 holiday packages.
 
 ## Available Scripts
+
+### `npm install` 
+Installs all the dependency required for this project to run
 
 In the project directory, you can run:
 
